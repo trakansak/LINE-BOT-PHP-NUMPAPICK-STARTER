@@ -7,7 +7,7 @@ const char* password = "77777777"; //change this to your PASSWORD
 
 const char* host = "https://cloud-health-care-device.herokuapp.com/bot.php";//change this to your linebot server ex.http://numpapick-linebot.herokuapp.com/bot.php
 #define APPID   "Nigga Need Healing"     //change this to your APPID
-#define KEY     "ben1zmMdeCquTI9AVyd0UGwW5SzuTPPxkXbJdUij35Y2UK0KDE0oR7I8I7b+Igudfxf00wEP3j3LBWgMGfCReeZzoDn4bw9iHWEt1nrvdp6q4E1xc3N+6GooWim5fQaCfe6LTmjiZpJ1SIb3P5duDwdB04t89/1O/w1cDnyilFU="     //change this to your KEY
+#define KEY     "1605161646"     //change this to your KEY
 #define SECRET  "220989acccf2af915f834be16ed9bb3e"     //change this to your SECRET
 
 #define ALIAS   "NodeMCU1" //set name of drvice
